@@ -9,7 +9,7 @@ This is a python web scraper for scraping the details of a list of pharmacies.
 ## Features
 
 ### Web Scraping
-* Pulls in data about star wars movies from [Pharmacy Locator]([https://swapi.dev/](https://ncpa.org/pharmacy-locator)https://ncpa.org/pharmacy-locator)
+* Pulls in data about star wars movies from [NCPA Pharmacy Locator](https://swapi.dev/](https://ncpa.org/pharmacy-locator)https://ncpa.org/pharmacy-locator)
 
 ## Built With
 
